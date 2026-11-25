@@ -44,6 +44,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [love](https://love2d.org/) - Framework to make 2D games in Lua.
+- [GTA6 Wiki](https://github.com/littleben/gta6wiki-tools) - Query an independent GTA VI fan wiki, map landmarks and reference articles in English or Chinese.
 
 ## Git
 
