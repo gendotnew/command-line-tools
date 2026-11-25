@@ -221,6 +221,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [cowyo](https://github.com/schollz/cowyo) - Feature rich wiki webserver for minimalists.
 - [croc](https://github.com/schollz/croc) - Easily get things from one computer to another.
 - [ctop](https://github.com/bcicen/ctop) - Container metric viewer.
+- [dpad](https://github.com/spar/dpad) - Colorful companion to the docker CLI with sorted ps, images and stats, multi-container logs and a terminal UI.
 - [curl](https://www.explainshell.com/explain/curl) - Transfer a URL.
 - [direnv](https://github.com/direnv/direnv) - Unclutter your .profile.
 - [dirname](https://www.explainshell.com/explain/dirname) - Strip last component from file name.
